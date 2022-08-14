@@ -1,4 +1,4 @@
-[![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)
+![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)
 <h1 align="center">Hi 👋, I'm Kaustav Chatterjee</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CircularLimpingHartebeest-max-1mb.gif">
